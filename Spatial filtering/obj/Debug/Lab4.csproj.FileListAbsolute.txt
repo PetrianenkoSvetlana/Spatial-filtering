@@ -1,0 +1,120 @@
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\x64\concrt140.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\x64\cvextern.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\x64\msvcp140.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\x64\vcruntime140.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\x86\concrt140.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\x86\cvextern.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\x86\msvcp140.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\x86\vcruntime140.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\Lab4.exe.config
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\Lab4.exe
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\Lab4.pdb
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\Emgu.CV.UI.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\Emgu.CV.World.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\ZedGraph.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\Emgu.CV.UI.xml
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\Emgu.CV.World.xml
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\ZedGraph.xml
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\de\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\es\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\fr\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\hu\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\it\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\ja\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\pt\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\ru\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\sk\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\sv\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\tr\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Универ\Компьютерное зрение\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\Универ\Компьютерное зрение\Lab4\obj\Debug\Lab4.Form1.resources
+D:\Универ\Компьютерное зрение\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Универ\Компьютерное зрение\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Универ\Компьютерное зрение\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Универ\Компьютерное зрение\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+D:\Универ\Компьютерное зрение\Lab4\obj\Debug\Lab4.exe
+D:\Универ\Компьютерное зрение\Lab4\obj\Debug\Lab4.pdb
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\x64\concrt140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\x64\cvextern.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\x64\msvcp140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\x64\vcruntime140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\x86\concrt140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\x86\cvextern.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\x86\msvcp140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\x86\vcruntime140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\Lab4.exe
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\Lab4.pdb
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\Emgu.CV.UI.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\Emgu.CV.World.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\ZedGraph.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\Emgu.CV.UI.xml
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\Emgu.CV.World.xml
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\ZedGraph.xml
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\obj\Debug\Lab4.exe
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Lab4\obj\Debug\Lab4.pdb
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\x64\concrt140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\x64\cvextern.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\x64\msvcp140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\x64\vcruntime140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\x86\concrt140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\x86\cvextern.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\x86\msvcp140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\x86\vcruntime140.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\Lab4.exe.config
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\Lab4.exe
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\Lab4.pdb
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\Emgu.CV.UI.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\Emgu.CV.World.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\ZedGraph.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\Emgu.CV.UI.xml
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\Emgu.CV.World.xml
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\ZedGraph.xml
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\obj\Debug\Lab4.Form1.resources
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\obj\Debug\Lab4.exe
+C:\Users\1\Desktop\КОМПЬЮТЕРНОЕ ЗРЕНИЕ\Spatial filtering\obj\Debug\Lab4.pdb
